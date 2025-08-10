@@ -15,7 +15,7 @@ A simple REST API built with **Node.js** and **Express** that allows you to perf
 ## How to Run
 
 1. **Clone the repo**
-   git clone https://github.com/anvithareddy-06/task-3.git
+   git clone https://github.com/saisri2501/books-api-crud.git
    cd task-3
 2. **Install dependencies**
     npm install
